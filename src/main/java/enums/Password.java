@@ -1,7 +1,8 @@
 package enums;
 
 public enum Password {
-    PASSWORD ("11test11");
+    VALID_PASSWORD ("11test11"),
+    INVALID_PASSWORD ("adasda");
 
     private String password;
 

@@ -1,4 +1,4 @@
-package bg.abv.core.core;
+package bg.abv.core;
 
 import bg.abv.pages.LoginPage;
 import bg.abv.pages.MainPage;

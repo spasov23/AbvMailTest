@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="466bbb93-59b3-48f4-a35d-369e76f32b9e" name="Default Changelist" comment="" />
+    <list default="true" id="466bbb93-59b3-48f4-a35d-369e76f32b9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/abv/core/core/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/abv/core/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/abv/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/abv/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/abv/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/abv/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/Username.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/Username.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bg/abv/tests/negative/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bg/abv/tests/negative/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bg/abv/tests/positive/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bg/abv/tests/positive/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bg/abv/tests/positive/MainPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bg/abv/tests/positive/MainPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/bgabvnew.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/abv/core/core/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/abv/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/abv/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/abv/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/abv/pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enums/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enums/Password.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enums/Username.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enums/Username.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/negative/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/negative/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/positive/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/positive/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/positive/MainPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/bg/abv/tests/positive/MainPageTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +51,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1kTiQmT9xpZJaRKcsd5VgHsUmLe" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -39,7 +67,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MainPageTests.successfullySendAndDeliverEmail">
+  <component name="RunManager" selected="TestNG.LoginTests.cantLoginWithInvalidCredentials">
+    <configuration name="LoginTests.cantLoginWithInvalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bg.abv.new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.abv.tests.negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="bg.abv.tests.negative" />
+      <option name="MAIN_CLASS_NAME" value="bg.abv.tests.negative.LoginTests" />
+      <option name="METHOD_NAME" value="cantLoginWithInvalidCredentials" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTests.successfulLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="bgabvnew" />
       <extension name="coverage">
@@ -52,6 +107,33 @@
       <option name="PACKAGE_NAME" value="bg.abv.tests.positive" />
       <option name="MAIN_CLASS_NAME" value="bg.abv.tests.positive.LoginTests" />
       <option name="METHOD_NAME" value="successfulLoginTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTests.canSuccessfullySendAndDeliverEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bg.abv.new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.abv.tests.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="bg.abv.tests.positive" />
+      <option name="MAIN_CLASS_NAME" value="bg.abv.tests.positive.MainPageTests" />
+      <option name="METHOD_NAME" value="canSuccessfullySendAndDeliverEmail" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
@@ -112,8 +194,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bg.abv.tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bg.abv.new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.abv.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="bg.abv.tests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTests.cantLoginWithInvalidCredentials" />
+        <item itemvalue="TestNG.bg.abv.tests" />
+        <item itemvalue="TestNG.MainPageTests.canSuccessfullySendAndDeliverEmail" />
         <item itemvalue="TestNG.MainPageTests.successfullySendAndDeliverEmail" />
         <item itemvalue="TestNG.LoginTests.successfulLoginTest" />
       </list>
@@ -131,5 +242,16 @@
       <updated>1605730967700</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

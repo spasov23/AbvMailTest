@@ -1,7 +1,8 @@
 package enums;
 
 public enum Username {
-    USER("ks_test_mail@abv.bg");
+    VALID_USER("ks_test_mail@abv.bg"),
+    INVALID_USER("dsadasdsa");
 
     private String username;
 
